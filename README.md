@@ -18,7 +18,7 @@
 # Instalação
 - Faça um clone do repositório atual:
  ```bash
-https://github.com/MarianaLuca/kafka-producer-consumer.git
+https://github.com/MarianaLuca/AWS-Lambda-Palindromo.git
 ```
 - Abra o console da AWS
 - Cria uma lambda com nome de sua preferência
