@@ -40,7 +40,7 @@ https://github.com/MarianaLuca/AWS-Lambda-Palindromo.git
 Podem existir dois retornos:
 ```
  status: 200
- Não  um palindromo!
+ Não é um palindromo!
 ```
 
 
