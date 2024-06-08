@@ -10,6 +10,7 @@
 - [Contato](#contato)
 - [Agradecimentos](#agradecimentos)
 
+URL para testes: https://uumykwl4shwyvdgiydjnyx4j340mwawf.lambda-url.us-east-2.on.aws/
 
 # Requisitos:
 - Postman
