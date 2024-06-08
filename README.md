@@ -37,7 +37,17 @@ https://github.com/MarianaLuca/AWS-Lambda-Palindromo.git
 }
 ```
 
-Com esses passos, a lambda deve funcionar :)
+Podem existir dois retornos:
+```
+ status: 200
+ Não  um palindromo!
+```
+
+
+```
+ status: 200
+ É um palindromo!
+```
 
 # Contribuição
 Contribuições são bem-vindas! Por favor, envie um pull request ou abra uma issue para discutir suas mudanças.
